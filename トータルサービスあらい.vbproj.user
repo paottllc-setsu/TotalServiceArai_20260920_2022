@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_LastSelectedProfileId>C:\repos\TotalServiceArai_20260920_2022\My Project\PublishProfiles\FolderProfile.pubxml</_LastSelectedProfileId>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Update="Form1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="メインメニュー.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="モード選択.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="工事マスタ一覧.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="工事マスタ編集.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="工事一覧取得.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="年間請求一覧.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="見積請求作成修正.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="見積請求履歴取得.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="顧客マスタ一覧.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="顧客マスタ編集.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="顧客名称選択.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
