@@ -154,6 +154,7 @@ Public Class メインメニュー
         'AddHandler process.ErrorDataReceived, AddressOf ErrorHandler
 
         process.Start()
+        process.WaitForExit()
 
     End Sub
 
